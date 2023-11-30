@@ -8,7 +8,7 @@ Vous pouvez trouver le même dataset que moi : (https://www.kaggle.com/datasets/
 ## Modèles de Machine Learning
 
 ### 1. Régression Logistique
-J'ai utilisé le modèle de régression logistique pour la détection de la fraude. 
+J'ai utilisé le modèle de régression logistique pour la détection de la fraude. C'est un modèle de régression binomiale.
 
 ### 2. Random Forest
 Le modèle de forêt aléatoire a également été implémenté pour la détection de la fraude. Les forêts aléatoires sont des ensembles d'arbres de décision qui améliorent la précision et la robustesse du modèle.

@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Charger les données
+# Charger les données, entrez le nom de votre dataset entre les (parenthèses)
 data = pd.read_csv('data.csv')
 
 # Afficher les premières lignes pour comprendre la structure des données
@@ -20,8 +20,6 @@ data = data.drop_duplicates()
 data_types = data.dtypes
 print("Types de données par colonne :\n", data_types)
 
-# Convertir des colonnes si nécessaire (par exemple, convertir une colonne de dates)
-# data['date_column'] = pd.to_datetime(data['date_column'])
 
 # Effectuer d'autres opérations de nettoyage spécifiques à votre ensemble de données
 

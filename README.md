@@ -3,7 +3,11 @@
 
 ## Ensembles de Données
 Les données utilisées dans ce projet sont issues de  Kaggle "Synthetic Financial Datasets for Fraud Detection". 
-Vous pouvez trouver le même dataset que moi : (https://www.kaggle.com/datasets/ealaxi/paysim1).
+Vous pouvez trouver le même dataset que moi : 
+
+(https://www.kaggle.com/datasets/ealaxi/paysim1)
+(https://www.kaggle.com/code/gautamdewasi/fraud-transaction-detection/input)
+(https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data)
 
 ## Modèles de Machine Learning
 

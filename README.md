@@ -6,6 +6,8 @@ Le projet de détection de fraude financière a pour objectif de développer des
 ## Dataset Très Large
 Le deuxième ensemble de données est caractérisé par sa taille considérable, entrant ainsi dans la catégorie des datasets très larges. Ces données comprennent un grand nombre d'observations ou d'échantillons, offrant ainsi une diversité importante pour l'entraînement des modèles. Un volume substantiel de données peut améliorer la capacité du modèle à généraliser et à détecter des schémas complexes liés à la fraude financière.
 
+https://www.kaggle.com/code/gautamdewasi/fraud-transaction-detection/input
+
 ### Modèles de Machine Learning
 1. Régression
 Linear Regression
